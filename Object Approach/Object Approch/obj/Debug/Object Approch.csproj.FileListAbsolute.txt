@@ -1,0 +1,20 @@
+J:\Csharp Project\Object Approch\Object Approch\obj\Debug\Object Approch.csproj.CoreCompileInputs.cache
+J:\Csharp Project\Object Approch\Object Approch\bin\Debug\Object Approch.exe.config
+J:\Csharp Project\Object Approch\Object Approch\bin\Debug\Object Approch.exe
+J:\Csharp Project\Object Approch\Object Approch\bin\Debug\Object Approch.pdb
+J:\Csharp Project\Object Approch\Object Approch\obj\Debug\Object Approch.exe
+J:\Csharp Project\Object Approch\Object Approch\obj\Debug\Object Approch.pdb
+J:\Csharp Project\Object Approach\Object Approch\bin\Debug\Object Approch.exe.config
+J:\Csharp Project\Object Approach\Object Approch\bin\Debug\Object Approch.exe
+J:\Csharp Project\Object Approach\Object Approch\bin\Debug\Object Approch.pdb
+J:\Csharp Project\Object Approach\Object Approch\obj\Debug\Object Approch.csprojAssemblyReference.cache
+J:\Csharp Project\Object Approach\Object Approch\obj\Debug\Object Approch.csproj.CoreCompileInputs.cache
+J:\Csharp Project\Object Approach\Object Approch\obj\Debug\Object Approch.exe
+J:\Csharp Project\Object Approach\Object Approch\obj\Debug\Object Approch.pdb
+F:\All Projects\3rd Module Pro\Csharp Projects(3rd Module)\Object Approach\Object Approch\bin\Debug\Object Approch.exe.config
+F:\All Projects\3rd Module Pro\Csharp Projects(3rd Module)\Object Approach\Object Approch\bin\Debug\Object Approch.exe
+F:\All Projects\3rd Module Pro\Csharp Projects(3rd Module)\Object Approach\Object Approch\bin\Debug\Object Approch.pdb
+F:\All Projects\3rd Module Pro\Csharp Projects(3rd Module)\Object Approach\Object Approch\obj\Debug\Object Approch.csprojAssemblyReference.cache
+F:\All Projects\3rd Module Pro\Csharp Projects(3rd Module)\Object Approach\Object Approch\obj\Debug\Object Approch.csproj.CoreCompileInputs.cache
+F:\All Projects\3rd Module Pro\Csharp Projects(3rd Module)\Object Approach\Object Approch\obj\Debug\Object Approch.exe
+F:\All Projects\3rd Module Pro\Csharp Projects(3rd Module)\Object Approach\Object Approch\obj\Debug\Object Approch.pdb
